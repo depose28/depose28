@@ -4,19 +4,17 @@ Builder and founder based in Berlin. I ship AI-powered products — from concept
 
 ## What I'm building
 
+**🧠 [Framewerk](https://framewerk.dev)** — A 3D neural graph of 700 mental models with 2,796 typed semantic relationships. Navigate the network, discover cross-discipline connections, and run decisions through the Oracle to find the most relevant frameworks. Open source.
+
 **🏠 AI Tenant Concierge** *(stealth)* — WhatsApp-based concierge service for German renters. Helps tenants document and resolve everyday housing issues like noise complaints, mold, and elevator breakdowns.
 
-**🔍 Refound AI** — AI commerce readiness audits for e-commerce stores. Analyzes online shops and delivers actionable recommendations. → [getrefound.ai](https://getrefound.ai)
+**🔍 [Refound AI](https://getrefound.ai)** — AI commerce readiness audits for e-commerce stores. Analyzes online shops and delivers actionable recommendations.
 
-**🏖️ Beaches of Mallorca** — Real-time beach information platform covering 70+ beaches across Mallorca, available in four languages. → [beachesofmallorca.com](https://beachesofmallorca.com)
+**🏖️ [Beaches of Mallorca](https://beachesofmallorca.com)** — Real-time beach information platform covering 70+ beaches across Mallorca, available in four languages.
 
-**🤖 Multi-Agent Systems** *(confidential)* — Building agentic AI swarms for deal flow, research automation, and portfolio intelligence at a crypto investment fund.
+**🤖 Multi-Agent Systems** *(internal)* — Building agentic AI swarms for deal flow, research automation, and portfolio intelligence at a crypto investment fund.
 
 **📊 Portfolio Analyst** — Investment portfolio tracking and analysis tool with automated reporting.
-
-## Open-source contributions
-
-Active contributor to **OpenClawd** and **Clawdbot** — building deeply on top of Claude-based tooling and agent frameworks.
 
 ## Stack
 
@@ -24,7 +22,7 @@ Active contributor to **OpenClawd** and **Clawdbot** — building deeply on top 
 
 ## Beyond code
 
-By day I manage a crypto investment fund and angel invest in AI infrastructure, robotics, and emerging tech. I like building things that solve real problems — especially where AI can do the heavy lifting.
+By day I manage a crypto investment fund and angel invest in AI infrastructure, robotics, and emerging tech.
 
 ---
 
