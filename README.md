@@ -1,29 +1,23 @@
-# Hey, I'm Philipp 👋
+# Philipp Beer
 
-Builder and founder based in Berlin. I ship AI-powered products — from concept to production — mostly with TypeScript, Python, and React.
+I’m an investor and builder based in Berlin.
 
-## What I'm building
+I manage [w3 Liquid Crypto Fund](https://w3.fund/liquid) and put AI to work for businesses through [Tapestry](https://tapestry.group/).
 
-**🧠 [Framewerk](https://framewerk.dev)** — A 3D neural graph of 700 mental models with 2,796 typed semantic relationships. Navigate the network, discover cross-discipline connections, and run decisions through the Oracle to find the most relevant frameworks. Open source.
+Much of what I build is private:
 
-**🏠 AI Tenant Concierge** *(stealth)* — WhatsApp-based concierge service for German renters. Helps tenants document and resolve everyday housing issues like noise complaints, mold, and elevator breakdowns.
+- Tools for investment research, fund operations, and investor reporting.
+- A brand-research tool for consultants, comparing responses across AI models.
+- With Tapestry, tools that connect investment data and documents for use with AI.
 
-**🔍 [Refound AI](https://getrefound.ai)** — AI commerce readiness audits for e-commerce stores. Analyzes online shops and delivers actionable recommendations.
+Alongside that, I make things out of curiosity.
 
-**🏖️ [Beaches of Mallorca](https://beachesofmallorca.com)** — Real-time beach information platform covering 70+ beaches across Mallorca, available in four languages.
+## A few things I’ve made
 
-**🤖 Multi-Agent Systems** *(internal)* — Building agentic AI swarms for deal flow, research automation, and portfolio intelligence at a crypto investment fund.
+- [FundFunk](https://fundfunk.berlin/) · Berlin’s street notices, turned into songs.
+- [Framewerk](https://framewerk.dev/) · An interactive map of mental models and their connections. [Source](https://github.com/depose28/framewerk).
+- [Beaches of Mallorca](https://beachesofmallorca.com/) · Find a beach for the day, with weather and sea conditions.
 
-**📊 Portfolio Analyst** — Investment portfolio tracking and analysis tool with automated reporting.
+I like meeting people who make things. If you have an idea or just want to talk, [say hello](mailto:philippxbeer@gmail.com).
 
-## Stack
-
-`TypeScript` · `Python` · `React` · `Next.js` · `Node.js` · `AI/LLM Agents` · `Multi-Agent Systems` · `WhatsApp API`
-
-## Beyond code
-
-By day I manage a crypto investment fund and angel invest in AI infrastructure, robotics, and emerging tech.
-
----
-
-📍 Berlin · 🇩🇪 🇦🇺
+[Website](https://philippbeer.me/) · [LinkedIn](https://www.linkedin.com/in/philipp-beer/)
